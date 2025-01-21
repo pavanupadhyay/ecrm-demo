@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/GatewayAPI/obj
+/GatewayAPI/bin/Debug/net8.0
+/OrdersAPI/bin/Debug/net8.0
+/OrdersAPI/obj
+/ProductsAPI/bin/Debug/net8.0
+/ProductsAPI/obj
+*.vsidx
